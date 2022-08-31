@@ -1,0 +1,110 @@
+h1{
+    color: #732929;
+    font-size: 45px;
+}
+p:first-child{
+    font-size: 18px;
+}
+p {
+    font-family: sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1;
+    text-transform: none;
+}
+
+main {
+    background-color:  rgb(255, 245, 218);
+    width: 100%;
+    
+}
+
+li {
+    display: flex;
+    margin: 20px;
+}
+
+ol {
+    float: right;
+    display: flex;
+    padding-left: 700px;
+
+}
+
+nav {
+    display: flex;
+}
+
+/* ol {
+    padding-left: 700px;
+} */
+
+.hero {
+    display: flex;
+}
+
+.float {
+    float: right;
+    padding-left: 500px;
+}
+
+.mid {
+    display: flex;
+    margin-left: 30px;
+    margin-bottom: 25px;
+}
+
+.middle {
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+/* .part1{
+    display: flex;
+} */
+/* .software{
+    /* float: right; */
+/* margin-left: 550px;
+    margin-right: 50px;
+} */
+/* */
+.group {
+    display: flex;
+}
+
+*/
+
+/* .both{
+    display: flex;
+} */
+.group {
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-bottom: 40px;
+
+}
+
+.foot {
+    display: flex;
+    /* justify-content: ; */
+}
+.partb{ 
+    margin-left: 100px; 
+}
+.partc{
+    margin-left: 500px;
+    
+    
+}
+*{
+    color:rgb(0,0,0);
+    
+}
+
+li a{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
